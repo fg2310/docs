@@ -1,3 +1,0 @@
-```swift
-import Auth0
-```
